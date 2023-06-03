@@ -1,1 +1,5 @@
-# real-life-eqipment-1
+# real-life-eqipment
+``` json
+{
+"1 search":"Reward+10"
+}
